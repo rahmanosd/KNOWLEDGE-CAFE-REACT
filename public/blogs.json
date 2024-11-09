@@ -1,0 +1,44 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co.com/0Bq188S/1.jpg",
+      "title": "Exploring the Wonders of the Universe",
+      "author": "Alice Stargazer",
+      "author_img": "https://i.ibb.co.com/MhNmS0y/boy1.png",
+      "posted_date": "2023-10-15",
+      "reading_time": "5",
+      "hashtags": ["#space", "#astronomy"]
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co.com/GpX7DCM/2.png",
+      "title": "The Art of Mindful Living",
+      "author": "John Serenity",
+      "author_img": "https://i.ibb.co.com/86WfYxW/boy2.jpg",
+      "posted_date": "2023-10-20",
+      "reading_time": "8",
+      "hashtags": ["#mindfulness", "#wellness"]
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co.com/gTK94kR/3.png",
+      "title": "A Journey Through Culinary Delights",
+      "author": "Sophie Delicieux",
+      "author_img": "https://i.ibb.co.com/VHVpxjJ/girl1.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": "10",
+      "hashtags": ["#food", "#cooking"]
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co.com/Rg7zZHS/4.jpg",
+      "title": "Understanding the Basics of AI",
+      "author": "Rob Technova",
+      "author_img": "https://i.ibb.co.com/bsPrJgP/girl2.jpg",
+      "posted_date": "2023-11-01",
+      "reading_time": "7",
+      "hashtags": ["#technology", "#machinelearning"]
+    }
+    
+  ]
+  
